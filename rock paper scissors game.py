@@ -1,5 +1,4 @@
 import random
-from urllib.parse import uses_relative
 
 rock = '''
 rock
@@ -47,5 +46,6 @@ elif (user_choice == 0 and computer_choice == 2) or \
             print("You win!!")
 else:
     print("You lose!!")
+
 
 
